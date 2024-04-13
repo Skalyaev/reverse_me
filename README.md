@@ -1,12 +1,10 @@
-# Reverse_me
-> *Reverse me i’m famous!*
-
-*The reverse passion.*
-
-This project aims to discovery the art of Reversing Engineering.
-You will learn to understand how several programs work.
-For the more adventurous, you will be able to patch these files so that they can validate all the entries you want!
+# <p align="center">reverse_me</p>
+> *Ce projet vise à découvrir l'art de l'ingénierie inverse. Vous apprendrez à comprendre le fonctionnement de plusieurs programmes en parcourant leur code assembleur.*
+>
+> *Pour les plus aventureux, vous pourrez patcher ces fichiers afin qu'ils valident toutes les entrées que vous souhaitez !*
 
 ## Checklist
 - [x] Source code from asm dump
 - [x] Passwords found
+- [ ] Patched binaries
+
