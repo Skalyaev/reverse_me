@@ -4,7 +4,7 @@
 > *Pour les plus aventureux, vous pourrez patcher ces fichiers afin qu'ils valident toutes les entrées que vous souhaitez !*
 
 ## Checklist
-- [x] Mots de passes
+- [x] Mots de passe
 - [x] Code source à partir du dump ASM
 - [x] Fichiers de patch
 
