@@ -6,5 +6,5 @@
 ## Checklist
 - [x] Source code from asm dump
 - [x] Passwords found
-- [ ] Patched binaries
+- [x] Patched binaries
 

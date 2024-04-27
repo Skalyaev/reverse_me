@@ -14,7 +14,8 @@ void ____syscall_malloc(void)
     puts("Good job.");
     return;
 }
-
+e8 13 fd ff ff
+0xE9, 0x21, 0x02, 0x00, 0x00
 int main(void)
 {
     // rbp-0x4 = 0000
