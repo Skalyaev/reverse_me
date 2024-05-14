@@ -29,7 +29,7 @@ int main(void)
                       // 3 bytes gap
     size_t var2;      // rbx-0x50 (0x45 + 0x3 + 0x8 = 0x50)
 
-    printf("Please enter key:");
+    printf("Please enter key: ");
     scanf_ret = scanf("%23s", buffer2);
     if (scanf_ret != 1)
         ___syscall_malloc();

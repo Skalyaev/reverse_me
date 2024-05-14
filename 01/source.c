@@ -29,7 +29,7 @@ int main(void)
     bool bool1;       // ebp-0x41
     size_t var1;      // ebp-0x48
 
-    printf("Please enter key:");
+    printf("Please enter key: ");
     scanf_ret = scanf("%23s", buffer2);
     if (scanf_ret != 1)
         no();
